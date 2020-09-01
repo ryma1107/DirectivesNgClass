@@ -1,0 +1,17 @@
+.theme1{
+  font-size: 40px;
+  font-family: Garamond;
+  color:red;
+}
+
+.theme2{
+  font-size: 20px;
+  font-family: serif;
+  color:blue;
+}
+
+.theme3{
+  font-size: 10px;
+  font-family: cursive;
+  color:green;
+}
